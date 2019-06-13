@@ -7,6 +7,7 @@ This is the content. Lorem ipsum dolor amet franzen scenester poke hammock vegan
 #### Here is a graph label
 
 insert this graph here 
+
 ![alt text](https://djq5eqy4vbh27.cloudfront.net/panel-uploads/GlossaryTerm/0053540d59ee4824b70187bce47ef0e4/1551236725_Drawing-a-bar-graph-to-represent-the-data.png)
 
 See the whole process in this notebook
