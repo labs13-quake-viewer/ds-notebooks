@@ -79,7 +79,6 @@ seismic features and earthquakes for that particular region
 
 **Prediction**: will an earthquake with the magnitude above a 5.0  will take place at a 30-180 day horizon
 
-
 ### [Earthquakes magnitude prediction using recurrent neural networks](https://www.researchgate.net/publication/333671181_Earthquakes_magnitude_prediction_using_recurrent_neural_networks)
 * **Date:** June 2019
 * **Data:** Italian seismic catalog of earthquakes with magnitude equal or larger than 1.5 from 1995 to 2018
@@ -90,12 +89,28 @@ seismic features and earthquakes for that particular region
 
 [Seismic activity prediction using computational intelligence techniques in northern Pakistan](https://www.researchgate.net/publication/320035816_Seismic_activity_prediction_using_computational_intelligence_techniques_in_northern_Pakistan)
 
+### [Minimum Magnitude of Completeness in Earthquake Catalogs: Examples from Alaska, the Western United States, and Japan](ftp://seis.es.uwo.ca/pub/ktiampo/GR/Wiemer_MC.pdf)
+> The first step toward understanding the characteristics of an earthquake catalog is to **discover the starting time of the high-quality catalog most suitable for analysis**. In addition, we seek to identify changes of reporting quality as a function of time. Issues connected with these problems are not the subjects of this article; they are dealt with elsewhere
+(Habermann, 1986; Habermann, 1991; Zuniga and Wiemer, 1999; Zuniga and Wyss, 1995). **Here we assume that we know the starting date of the high-quality catalog**, and that there are no changes of reporting (magnitude stretches and shifts) serious enough to corrupt the analysis we have in mind, so that we may proceed to map Mc.
+
+>The following steps are taken to estimate Mc: First we estimate the b- and a-value of the GR law as a function of minimum magnitude, based on the events with M  Mi. We use a maximum likelihood estimate to estimate the b- and a-values and their confidence limits (Aki, 1965; Shi and Bolt, 1982; Bender, 1983). Next, we compute a synthetic distribution of magnitudes with the same b-, a- and Mi values, which represents a perfect fit to a power law. To estimate the goodness of the fit we compute the absolute difference, R, of the number of events in each magnitude bin between the observed and synthetic distribution where Bi and Si are the observed and predicted cumulative number of events in each magnitude bin. We divide by the total number of observed events to normalize the distribution. Our approach is illustrated in Figure 2, which shows R as function of Mi. If Mi is smaller then the ‘correct’ Mc, the synthetic distribution based on a simple power law (squares in Figure 2) cannot model the FMD adequately and, consequently, the goodness of fit, measured in percent of the total number of events, is poor. The goodness-of-fit value R increases with increasing Mi and reaches a maximum value of
+R 96% at Mc  1.8 in this example. At this Mc, a simple power law with the assumed b-, a-, and Mc value can explain
+96% of the data variability. Beyond Mi  1.8, R increases again gradually. In this study we map Mc at the 90% level,
+that is, we define Mc as the point at which a power law can model 90% or more of the FMD. For the example shown in
+Figure 2, we therefore define Mc  1.5.
+
+### [New Bayesian frequency-magnitude distribution model for earthquakes applied in Chile](https://www.researchgate.net/publication/325340620_New_Bayesian_frequency-magnitude_distribution_model_for_earthquakes_applied_in_Chile)
+
+### ["Application of neural network and ANFIS model for earthquake occurrence in Iran"](https://www.researchgate.net/publication/263552794_Application_of_neural_network_and_ANFIS_model_for_earthquake_occurrence_in_Iran)
+
 ### No Access
 [A probabilistic neural network for earthquake magnitude prediction](https://www.sciencedirect.com/science/article/pii/S0893608009000926?via%3Dihub)
 
 [Neural networks to predict earthquakes in Chile](https://www.sciencedirect.com/science/article/pii/S1568494612004656)
 
 "Earthquake prediction in seismogenic areas of the Iberian Peninsula" 
+
+"Neural network models For earthquake magnitude prediction using multiple seismicity indicators" filetype:pdf
 
 ## Apps
 ### [App that crowdsources vibration data](https://myshake.berkeley.edu/)
