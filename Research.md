@@ -101,12 +101,16 @@ Figure 2, we therefore define Mc  1.5.
 
 ### [New Bayesian frequency-magnitude distribution model for earthquakes applied in Chile](https://www.researchgate.net/publication/325340620_New_Bayesian_frequency-magnitude_distribution_model_for_earthquakes_applied_in_Chile)
 
+### ["Application of neural network and ANFIS model for earthquake occurrence in Iran"](https://www.researchgate.net/publication/263552794_Application_of_neural_network_and_ANFIS_model_for_earthquake_occurrence_in_Iran)
+
 ### No Access
 [A probabilistic neural network for earthquake magnitude prediction](https://www.sciencedirect.com/science/article/pii/S0893608009000926?via%3Dihub)
 
 [Neural networks to predict earthquakes in Chile](https://www.sciencedirect.com/science/article/pii/S1568494612004656)
 
 "Earthquake prediction in seismogenic areas of the Iberian Peninsula" 
+
+"Neural network models For earthquake magnitude prediction using multiple seismicity indicators" filetype:pdf
 
 ## Apps
 ### [App that crowdsources vibration data](https://myshake.berkeley.edu/)
