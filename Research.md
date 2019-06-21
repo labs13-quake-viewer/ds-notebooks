@@ -14,7 +14,6 @@ USGS does not capture all earthquakes, particularly below 4.5 mag: https://earth
     * [YouTube walkthrough](https://www.youtube.com/watch?v=TffGdSsWKlA)
 
 ## Articles
-* [New Bayesian Frequency-Magnitude Distribution Model For Earthquakes Applied in Chile](https://www.researchgate.net/profile/Ewin_Sanchez_Casanga/publication/325340620_New_Bayesian_frequency-magnitude_distribution_model_for_earthquakes_applied_in_Chile/links/5b6e43d745851546c9fa4ec1/New-Bayesian-frequency-magnitude-distribution-model-for-earthquakes-applied-in-Chile.pdf)
 * *"Exploring the fascinating world of incomplete seismicity data"*
     * [Part I: Bayesian inference](https://medium.com/the-history-risk-forecast-of-perils/exploring-the-fascinating-world-of-incomplete-seismicity-data-part-i-ii-bayesian-inference-386338b43b71)
     * [Part II: Mixture Modelling](https://medium.com/the-history-risk-forecast-of-perils/exploring-the-fascinating-world-of-incomplete-seismicity-data-part-ii-ii-mixture-modelling-5d2665cb9fa3)
