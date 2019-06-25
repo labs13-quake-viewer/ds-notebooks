@@ -59,6 +59,9 @@
 The graphs here give us some idea of the relationship between the damage caused by an earthquake that generates a tsunami, and one that doesn't. We can see only so much in the graphs. So, in addition to the graphs, below are some t-tests and p-values for each of the categories in the graphs above.
 
 **Insert t-tests here**
+
+Title: 
+#T-Test Results
 <table class="table">
   <thead>
     <tr>
