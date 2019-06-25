@@ -59,10 +59,65 @@
 The graphs here give us some idea of the relationship between the damage caused by an earthquake that generates a tsunami, and one that doesn't. We can see only so much in the graphs. So, in addition to the graphs, below are some t-tests and p-values for each of the categories in the graphs above.
 
 **Insert t-tests here**
-T-Tests.png
 
-The first t-test shows a relationship between deaths caused by an earthquakes that generated tsunamis and earthquakes that did not. The p-value does not suggest a significant relationship but one that nonetheless should be explored further.
+Title: 
+#T-Test Results
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Number</th>
+      <th scope="col">Statistic</th>
+      <th scope="col">p-value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>18.1456</td>
+      <td>1.1599e-64</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>1.7026</td>
+      <td>0.0889</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>0.5182</td>
+      <td>0.6044</td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>1.2452</td>
+      <td>0.2133</td>
+    </tr>
+    <tr>
+      <th scope="row">5</th>
+      <td>0.8779</td>
+      <td>0.3802</td>
+    </tr>
+    <tr>
+      <th scope="row">6</th>
+      <td>1.2679</td>
+      <td>0.2051</td>
+    </tr>
+    <tr>
+      <th scope="row">7</th>
+      <td>1.4622</td>
+      <td>0.1440</td>
+    </tr>
+  </tbody>
+</table>
 
-Below that is a t-test that shows a significant relationship between injuries and tsuanmi occurrances as a result of an earthquake. The third addresses individuals reported missing. Next is the cost of damage incurred. Fifth is the number of houses destroyed and the last, the number of houses damaged. 
+In the order in which they appear, the t-tests above were comparing the relationship between an occurrance of a tsuanmi or not, and 1. Magnitude, 2. Deaths, 3. Missing, 4. Injuries, 5. Cost of Damage, 6. Houses Damaged, and 7. Houses Destroyed.
 
-In all but the first test, the p-value is considerably significant indicating a strong relationship. Tsunamis cause substantially more damage than an earthquake event without a tsunami being generated. Exploring this further is a necessity to minimize the impact an earthquake with a tsunami event would have.
+The null hypothesis: There is no significant difference between the damage caused by an earthquake that generated a tsunami and one with no associated tsunami.
+ 
+ The p-value in all the tests except the first are greater than 0.05 which would lead us to not reject our null hypothesis. Deaths was the only one even close to 0.05 but still gave us a greater value.
+
+The first t-test gave us a significant result. The small p-value leads us to reject our null hypothesis and conclude that the presence of a tsunami is associated with larger magnitude events. However, to gain more insight, we would need to identify earthquakes that occurred in the ocean only, collect that data, and re-run the t-test.
+
+ The graph below shows the spread of the magnitude with and without a tsunami. 
+
+ **Insert graph here**
+ test_figure.jpeg
