@@ -15,7 +15,4 @@ The below dynamic chart from Plotly
    
 Right below the chart, I'd like the following in text to explain. 
    The above chart shows the number of occurrences for each category based on the magnitude of the earthquake. It might appear as if there are more deaths and more damage when the magnitude is between 7.0 and 8.0. However, this chart is showing a count of slightly more than one thousand earthquake occurrances. There are far less earthquakes that occur with a magnitude of 8.0 and greater. And, there are far fewer deaths and much less damage when an earthquake occurs with a magnitude below 6.0. This chart does not indicate a greater loss of life when the magnitude of the earthquake is between 7.0 and 8.0.
-   
-   
-   
-*I'll add to this next week but this is it for right now. I have t-tests and some other significant statistics I'll add next week.*
+
